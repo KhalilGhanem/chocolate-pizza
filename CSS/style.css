@@ -1,0 +1,18 @@
+#logos {
+    display: inline-block;
+    float: right;
+}
+
+hr{
+    display: block;
+    background-image: url(https://raw.githubusercontent.com/LTUC/amman-201d22/main/class-10/lab-a/lab-assets/hr-img.png);
+   border: 0px; 
+   height: 10px;
+   
+}
+
+.print{
+    display: block;
+    float: right;
+}
+
